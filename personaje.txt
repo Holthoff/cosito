@@ -1,3 +1,4 @@
 Este es mi personaje
 Fuerza = 200
+Velocidad = 300
 
